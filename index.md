@@ -1,15 +1,83 @@
-## Welcome to GitHub Pages
+## Welcome to Assured OS!
 
-You can use the [editor on GitHub](https://github.com/AssuredOS/assured-OS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the Distro you need to use.
+It's all you could ever ask for! ᕕ( ᐛ )ᕗ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why choose us other Ubuntu-Based Distros?
+We try to make the end-user experience the best it can be and if you think something is definitely not up to standard REPORT AT (☞ﾟヮﾟ)☞assuredoscontact@gmail.com 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AssuredOS/assured-OS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Downloads
+(；´∀｀)Well it's not ready! Don't worry though, it's coming soon! All I can say is that there will be a 32bit and 64bit versions. I don't know why you'd have a 32bit cpu in 202X but i'll just make it anyways! ヽ（≧ω≦）/
 
 ### Support or Contact
+Got problems?(*._.) Report at (☞ﾟヮﾟ)☞assuredoscontact@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uhhhhh Why u here.(；´∀｀)
