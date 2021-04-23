@@ -3,7 +3,7 @@
 This is the Distro you need to use.
 It's all you could ever ask for! ᕕ( ᐛ )ᕗ
 
-### Why choose us other Ubuntu-Based Distros?
+### Why choose us over other Ubuntu-Based Distros?
 We try to make the end-user experience the best it can be and if you think something is definitely not up to standard REPORT AT (☞ﾟヮﾟ)☞assuredoscontact@gmail.com 
 
 ### Downloads
