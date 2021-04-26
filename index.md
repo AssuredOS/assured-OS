@@ -8,6 +8,7 @@ We try to make the end-user experience the best it can be and if you think somet
 
 ### Downloads
 64Bit Download:https://drive.google.com/file/d/1-04gw8Fi_V34NlesrLaL51DErHvZLkTm/view?usp=sharing
+
 64Bit is for computers/laptops that are made after 2007
 32Bit is for computers/laptops that are made before 2007.
 
